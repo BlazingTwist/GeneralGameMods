@@ -1,2 +1,2 @@
-# PolyBridge2Mods
-Probably a temporary repo for hosting PB2 mods
+# GeneralGameMods
+This is where I host all sorts of game mods that rarely if ever will be updated.
